@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.ckpt
+*.zip
+*.tar*
+results/
+checkpoints/
+.env
+*.token
