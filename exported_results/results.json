@@ -1,0 +1,17 @@
+{
+    "task": "Sentiment Classification (EN+HI+UR \u2192 BN)",
+    "model": "xlm-roberta-base (balanced multilingual fine-tuning)",
+    "accuracy": 0.867875,
+    "f1": 0.906609,
+    "samples": 11807,
+    "confusion_matrix": [
+        [
+            2675,
+            632
+        ],
+        [
+            928,
+            7572
+        ]
+    ]
+}
