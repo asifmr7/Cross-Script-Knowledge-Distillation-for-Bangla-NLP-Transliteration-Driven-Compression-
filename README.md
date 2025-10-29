@@ -1,3 +1,3 @@
-# Placeholder main branch
+ # Cross-lingual POS (EN to BN)
 
-This branch is intentionally minimal; code lives on feature branches.
+
