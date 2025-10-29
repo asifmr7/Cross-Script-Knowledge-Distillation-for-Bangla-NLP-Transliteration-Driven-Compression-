@@ -1,0 +1,5 @@
+FINAL SUMMARY over 1 seed(s)
+EN-dev : acc=0.9771±0.0000 | macroF1=0.9670±0.0000 | weightedF1=0.9770±0.0000
+BN-test: acc=0.8688±0.0000 | macroF1=0.6046±0.0000 | weightedF1=0.8701±0.0000
+
+Zero-shot BN-test (single run): acc=0.1469 | macroF1=0.0203 | weightedF1=0.0721
